@@ -1,0 +1,45 @@
+/* esta es mi archivo de estilos */
+body{
+    /*background-color: #004080;*/
+    background-image: url("img9.jpg");
+    color: navajowhite;
+}
+img{
+    margin: auto;
+    display: block;
+}
+img{
+    margin: auto;
+    display: block;
+}
+img{
+    margin: auto;
+    display: block;
+}
+.clearfix-padding {
+    clear: both;
+    padding: 2%;
+}
+header{
+    background-color: #0073e6;
+    border: 5px outset  #ffff1a;
+}
+h1{
+    text-align: center;
+    font-family: times new roman;
+}
+a:link{
+    color: antiquewhite ;
+}
+a:visited{
+    background-color:  #e6f2ff;
+    color:yellowgreen ;
+
+}
+a:hover{
+    background-color:  #e6f2ff;
+
+}
+a:active{
+    color: indianred;
+}
